@@ -47,9 +47,10 @@
 
 		<dependency>
 			<groupId>com.amazonaws</groupId>
-			<artifactId>aws-java-sdk-sns</artifactId>
+			<artifactId>aws-java-sdk-ses</artifactId>
 			<version>1.12.62</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
