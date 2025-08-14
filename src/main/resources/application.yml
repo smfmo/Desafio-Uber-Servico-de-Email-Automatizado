@@ -1,3 +1,7 @@
 spring:
   application:
     name: email-service
+aws:
+  accessKeyId: ${ACCESS_KEY_ID}
+  secretKey: ${SECRET_KEY}
+  region: ${REGION}
